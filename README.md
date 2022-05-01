@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Adam.
-- 👀 I’m interested in JVM/Linux/Go/etc..
-- 📫 You can reach me by Discord (Aderm#5779) or email (hello@adaml.cc)
+- 📫 You can reach me by Discord (Aderm#5779)
