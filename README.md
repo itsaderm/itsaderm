@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Adam.
-- 📫 You can reach me by Discord (Aderm#5779)
+- 📫 You can reach me by Discord (aderm.)
